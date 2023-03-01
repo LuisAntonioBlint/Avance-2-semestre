@@ -5,7 +5,7 @@ Aqui se registrará el avance correspondiente a las tareas del segundo semestre 
 
 Algebra Lineal
 
-  Tarea 1 .............................. FAIL **********
+  Tarea 1 .............................. FAIL ********** <br>
   Tarea 2 .............................. FAIL **********
   Tarea 3 .............................. FAIL **********
   Tarea 4 .............................. FAIL
